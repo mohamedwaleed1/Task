@@ -1,0 +1,45 @@
+body{
+    background-color:black
+
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+    color: darkred;
+    
+}
+
+span{
+    color: rgb(229, 212, 212);
+    font: size 40px;
+
+}
+
+div{
+    width: 21%;
+    height: 25%;
+    padding-bottom: 20px;
+    background:rgb(69, 39, 39);
+    text-align: center;
+    float:left;
+    margin: 25px;
+    border-radius: 0px 0px 30px 30px;
+    border: 1px solid brown;
+
+}
+
+img{
+    width: 300px;
+}
+h2{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+button{
+    width: 60%;
+    border-radius: 30px;
+    background :#000;
+    color:white;
+}
